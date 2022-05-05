@@ -1,3 +1,18 @@
+# My first React Project 
+This app depends on shopping business logic where user can add , remove product to shopping cart 
+Admin can add , remove products from menu and database server 
+
+used third-party libraries 
+
+- React router DOM
+- BootStrap
+- Font Awsome
+- React tostify 
+- joi browser 
+- axios 
+- json server
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
