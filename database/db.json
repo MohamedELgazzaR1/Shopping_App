@@ -1,0 +1,32 @@
+{
+  "Products": [
+    {
+      "id": 7,
+      "name": "burger",
+      "count": 0,
+      "price": 15,
+      "isChoosen": false
+    },
+    {
+      "id": 4,
+      "name": "fries",
+      "count": 0,
+      "price": 20,
+      "isChoosen": false
+    },
+    {
+      "id": 2,
+      "name": "coca",
+      "count": 0,
+      "price": 30,
+      "isChoosen": false
+    },
+    {
+      "id": 5,
+      "name": "water",
+      "count": 0,
+      "price": 36,
+      "isChoosen": false
+    }
+  ]
+}
